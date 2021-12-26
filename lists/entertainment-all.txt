@@ -8,7 +8,7 @@ en.uncyclopedia.co
 *.uncyclopedia.co
 uncyclopedia.co
 explainxkcd.com
-rationalwiki.com
+rationalwiki.org
 urbandictionary.com
 xkcd.com
 twitch.tv
