@@ -1,0 +1,4 @@
+*.uncyclopedia.co
+*.webcomicsapp.com
+*.webtoons.com
+*.theodd1sout.com
