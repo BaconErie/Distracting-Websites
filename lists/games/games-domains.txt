@@ -164,3 +164,7 @@ kizi.com
 geo-fs.com
 www.geo-fs.com
 www.nationstates.net
+yolk.rocks
+yolk.tech
+zone.msn.com
+zygote.cafe
