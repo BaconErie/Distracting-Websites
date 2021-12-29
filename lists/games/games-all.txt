@@ -1,10 +1,6 @@
 *.*/*p=*cross*word*
-*.*/*p=*game*
-*.*/*p=*play*
 *.*/*p=*solitaire*
 *.*/*q=*cross*word*
-*.*/*q=*game*
-*.*/*q=*play*
 *.*/*q=*solitaire*
 *minesweeper*
 247minesweeper.com
