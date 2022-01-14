@@ -1,5 +1,7 @@
 *.knowyourmeme.com
+*.spotify.com
 *.theodd1sout.com
+*.theuselessweb.com
 *.uncyclopedia.co
 *.webcomicsapp.com
 *.webtoons.com
@@ -13,15 +15,19 @@ lichess.com
 musiclab.chromeexperiments.com
 pointerpointer.com
 rationalwiki.org
+spotify.com
 tennessine.co.uk
 theodd1sout.com
+theuselessweb.com
 twitch.tv
 uncyclopedia.co
 urbandictionary.com
 webcomicsapp.com
 webtoons.com
 www.knowyourmeme.com
+www.spotify.com
 www.theodd1sout.com
+www.theuselessweb.com
 www.webcomicsapp.com
 www.webtoons.com
 xkcd.com
